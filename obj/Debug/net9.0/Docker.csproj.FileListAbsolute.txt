@@ -1,0 +1,14 @@
+E:\repos\Docker\bin\Debug\net9.0\Docker.exe
+E:\repos\Docker\bin\Debug\net9.0\Docker.deps.json
+E:\repos\Docker\bin\Debug\net9.0\Docker.runtimeconfig.json
+E:\repos\Docker\bin\Debug\net9.0\Docker.dll
+E:\repos\Docker\bin\Debug\net9.0\Docker.pdb
+E:\repos\Docker\obj\Debug\net9.0\Docker.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Docker\obj\Debug\net9.0\Docker.AssemblyInfoInputs.cache
+E:\repos\Docker\obj\Debug\net9.0\Docker.AssemblyInfo.cs
+E:\repos\Docker\obj\Debug\net9.0\Docker.csproj.CoreCompileInputs.cache
+E:\repos\Docker\obj\Debug\net9.0\Docker.dll
+E:\repos\Docker\obj\Debug\net9.0\refint\Docker.dll
+E:\repos\Docker\obj\Debug\net9.0\Docker.pdb
+E:\repos\Docker\obj\Debug\net9.0\Docker.genruntimeconfig.cache
+E:\repos\Docker\obj\Debug\net9.0\ref\Docker.dll
